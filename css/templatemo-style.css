@@ -834,7 +834,7 @@ textarea.form-control {
    width:60%;
 }
 .filledBar4{
-   width:100%;
+   width:60%;
 }
 .dev-credit{
     font-size: 20px;
@@ -858,3 +858,6 @@ textarea.form-control {
 .git a i{
     color: black;
  }
+.insta a I{
+    color: purple;
+}
